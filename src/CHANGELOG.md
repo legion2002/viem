@@ -1,5 +1,11 @@
 # viem
 
+## 2.58.2
+
+### Patch Changes
+
+- [#5601](https://github.com/wevm/viem/pull/5601) [`bc5f35549f5e01fc6ea87571dd257cb7ad57a525`](https://github.com/wevm/viem/commit/bc5f35549f5e01fc6ea87571dd257cb7ad57a525) Thanks [@jxom](https://github.com/jxom)! - Stripped a trailing slash from a custom Arweave gateway when `getEnsAvatar` rewrites `https://arweave.net` avatar URLs.
+
 ## 2.58.1
 
 ### Patch Changes
